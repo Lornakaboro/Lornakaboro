@@ -26,7 +26,8 @@
 - CSS Frameworks
 - Javascript
 - Webpack
-- You can reach out to me on:
+
+You can reach out to me on:
 
 
 ## 🌐 Socials:

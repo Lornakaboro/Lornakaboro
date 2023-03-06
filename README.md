@@ -17,7 +17,7 @@
 - Javascript
 
 ###
-🌼 I am currunelty working on 📚
+🌼 I am currently working on 📚
 
 - building projects using Javascript
 

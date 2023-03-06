@@ -1,6 +1,6 @@
-# My-personal-repository
 
-<h1 align="left">Hey 👋 What's up?</h1>
+
+<h1 align="left">Hey there👋 </h1>
 
 ###
 
@@ -17,7 +17,8 @@
 - Javascript
 🌼 I am currunelty working on 📚
 
--building projects using Javascript
+building projects using Javascript
+
 💬 You can ask me about 👇;
 
 - Business Operations

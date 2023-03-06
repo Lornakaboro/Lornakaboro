@@ -13,12 +13,15 @@
 ###
 🌱 💻I am currently learning
 
-= Unit Testing
+- Unit Testing
 - Javascript
+
+###
 🌼 I am currunelty working on 📚
 
-building projects using Javascript
+- building projects using Javascript
 
+###
 💬 You can ask me about 👇;
 
 - Business Operations

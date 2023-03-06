@@ -24,8 +24,6 @@
 ###
 💬 You can ask me about 👇;
 
-- Business Operations
-- People Management
 - HTML5 & CSS
 - CSS Frameworks
 - Javascript

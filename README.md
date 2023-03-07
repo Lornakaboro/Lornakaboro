@@ -30,6 +30,7 @@
 - Webpack
 
 You can reach out to me on:
+### Email: lornakaboro@gmail.com
 
 
 ## 🌐 Socials:

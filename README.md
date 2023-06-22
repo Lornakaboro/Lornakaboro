@@ -14,12 +14,12 @@
 🌱 💻I am currently learning
 
 - Unit Testing
-- Javascript
+- Rails
 
 ###
 🌼 I am currently working on 📚
 
-- building projects using Javascript
+- building projects using Ruby on rails
 
 ###
 💬 You can ask me about 👇;
@@ -28,6 +28,8 @@
 - CSS Frameworks
 - Javascript
 - Webpack
+- React
+- Ruby
 
 You can reach out to me on:
 ### Email: lornakaboro@gmail.com
